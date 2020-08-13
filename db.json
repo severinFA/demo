@@ -2,9 +2,9 @@
   "fcdFrequency": {
     "coordinatesGenerationFrequency": 10
   },
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "users": [
+    { "id": 1, "mail": "a.severin@autoroutes-trafic.fr", "prenom": "Anthony", "nom": "Severin", "password": "admin" },
+    { "id": 2, "mail": "b.severin@autoroutes-trafic.fr", "prenom": "bAnthony", "nom": "bSeverin", "password": "badmin" },
   ],
   "profile": {
     "name": "typicode"
