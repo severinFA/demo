@@ -4,5 +4,10 @@
   },
   "profile": {
     "id": 1, "mail": "a.severin@autoroutes-trafic.fr", "prenom": "Anthony", "nom": "Severin", "password": "admin"
-  }
+  },
+  "profiles": [
+    {"id": 1, "mail": "a.severin@autoroutes-trafic.fr", "prenom": "Anthony", "nom": "Severin", "password": "admin"},
+    {"id": 2, "mail": "b.severin@autoroutes-trafic.fr", "prenom": "BAnthony", "nom": "Severin", "password": "admin"},
+    {"id": 3, "mail": "c.severin@autoroutes-trafic.fr", "prenom": "CAnthony", "nom": "Severin", "password": "admin"}
+  ]
 }
