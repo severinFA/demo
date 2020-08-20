@@ -15,5 +15,5 @@
     {"id": 2,  "date": "2020-08-20T15:26:43.511Z", "action": "Ajout d'un utilisateur", "user": {"id": 1, "mail": "a.severin@autoroutes-trafic.fr", "prenom": "Anthony", "nom": "Severin", "password": "admin"}},
     {"id": 3,  "date": "2020-08-20T15:27:43.511Z", "action": "Ajout d'un utilisateur", "user": {"id": 1, "mail": "a.severin@autoroutes-trafic.fr", "prenom": "Anthony", "nom": "Severin", "password": "admin"}},
     {"id": 4,  "date": "2020-08-20T15:28:43.511Z", "action": "Ajout d'un utilisateur", "user": {"id": 1, "mail": "a.severin@autoroutes-trafic.fr", "prenom": "Anthony", "nom": "Severin", "password": "admin"}}
-  ],
+  ]
 }
